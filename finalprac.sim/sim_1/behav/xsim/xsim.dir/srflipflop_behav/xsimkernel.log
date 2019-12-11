@@ -1,0 +1,4 @@
+Running: xsim.dir/srflipflop_behav/xsimk.exe -simmode gui -wdb srflipflop_behav.wdb -simrunnum 0 -socket 52275
+Design successfully loaded
+Design Loading Memory Usage: 4848 KB (Peak: 4848 KB)
+Design Loading CPU Usage: 0 ms

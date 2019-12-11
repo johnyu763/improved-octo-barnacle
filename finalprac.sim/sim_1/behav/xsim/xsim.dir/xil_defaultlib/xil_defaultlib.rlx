@@ -1,0 +1,11 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/John Yu/NewEECS31L/EECS31L/finalprac/finalprac.srcs/sources_1/new/decoder2to4.vhd,1576028752,vhdl,,,,decoder2to4,,,,,,,,
+C:/Users/John Yu/NewEECS31L/EECS31L/finalprac/finalprac.srcs/sources_1/new/decoder4to16.vhd,1576028956,vhdl,,,,decoder4to16,,,,,,,,
+C:/Users/John Yu/NewEECS31L/EECS31L/finalprac/finalprac.srcs/sources_1/new/dflipflop.vhd,1576017237,vhdl,,,,dflipflop,,,,,,,,
+C:/Users/John Yu/NewEECS31L/EECS31L/finalprac/finalprac.srcs/sources_1/new/jkflipflop.vhd,1576015335,vhdl,,,,jkflipflop,,,,,,,,
+C:/Users/John Yu/NewEECS31L/EECS31L/finalprac/finalprac.srcs/sources_1/new/mod17counter.vhd,1576019611,vhdl,,,,mod17counter,,,,,,,,
+C:/Users/John Yu/NewEECS31L/EECS31L/finalprac/finalprac.srcs/sources_1/new/sr_flip.vhd,1576014441,vhdl,,,,srflipflop,,,,,,,,
+C:/Users/John Yu/NewEECS31L/EECS31L/finalprac/finalprac.srcs/sources_1/new/tflipflop.vhd,1576016749,vhdl,,,,tflipflop,,,,,,,,

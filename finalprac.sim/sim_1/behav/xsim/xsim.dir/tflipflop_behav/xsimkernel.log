@@ -1,0 +1,4 @@
+Running: xsim.dir/tflipflop_behav/xsimk.exe -simmode gui -wdb tflipflop_behav.wdb -simrunnum 0 -socket 52331
+Design successfully loaded
+Design Loading Memory Usage: 4856 KB (Peak: 4856 KB)
+Design Loading CPU Usage: 15 ms

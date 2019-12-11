@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/John Yu/NewEECS31L/EECS31L/finalprac/finalprac.srcs/sources_1/new/decoder2to4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity decoder2to4
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/John Yu/NewEECS31L/EECS31L/finalprac/finalprac.srcs/sources_1/new/decoder4to16.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity decoder4to16
